@@ -11,6 +11,5 @@ Build
 *.sdf
 *.sln
 *.suo
-*.uasset
 *.xcodeproj
 *.xcworkspace
